@@ -1,0 +1,17 @@
+C:\Users\Nijat\source\repos\BoltFood\BoltFood.Service\bin\Debug\net6.0\BoltFood.Service.deps.json
+C:\Users\Nijat\source\repos\BoltFood\BoltFood.Service\bin\Debug\net6.0\BoltFood.Service.dll
+C:\Users\Nijat\source\repos\BoltFood\BoltFood.Service\bin\Debug\net6.0\BoltFood.Service.pdb
+C:\Users\Nijat\source\repos\BoltFood\BoltFood.Service\obj\Debug\net6.0\BoltFood.Service.csproj.AssemblyReference.cache
+C:\Users\Nijat\source\repos\BoltFood\BoltFood.Service\obj\Debug\net6.0\BoltFood.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\source\repos\BoltFood\BoltFood.Service\obj\Debug\net6.0\BoltFood.Service.AssemblyInfoInputs.cache
+C:\Users\Nijat\source\repos\BoltFood\BoltFood.Service\obj\Debug\net6.0\BoltFood.Service.AssemblyInfo.cs
+C:\Users\Nijat\source\repos\BoltFood\BoltFood.Service\obj\Debug\net6.0\BoltFood.Service.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\source\repos\BoltFood\BoltFood.Service\obj\Debug\net6.0\BoltFood.Service.dll
+C:\Users\Nijat\source\repos\BoltFood\BoltFood.Service\obj\Debug\net6.0\refint\BoltFood.Service.dll
+C:\Users\Nijat\source\repos\BoltFood\BoltFood.Service\obj\Debug\net6.0\BoltFood.Service.pdb
+C:\Users\Nijat\source\repos\BoltFood\BoltFood.Service\obj\Debug\net6.0\ref\BoltFood.Service.dll
+C:\Users\Nijat\source\repos\BoltFood\BoltFood.Service\bin\Debug\net6.0\BoltFood.Core.dll
+C:\Users\Nijat\source\repos\BoltFood\BoltFood.Service\bin\Debug\net6.0\BoltFood.Data.dll
+C:\Users\Nijat\source\repos\BoltFood\BoltFood.Service\bin\Debug\net6.0\BoltFood.Data.pdb
+C:\Users\Nijat\source\repos\BoltFood\BoltFood.Service\bin\Debug\net6.0\BoltFood.Core.pdb
+C:\Users\Nijat\source\repos\BoltFood\BoltFood.Service\obj\Debug\net6.0\BoltFood.Service.csproj.CopyComplete
